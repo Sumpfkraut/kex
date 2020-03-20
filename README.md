@@ -11,3 +11,6 @@ copy this 2 files to your cinema4d library/scripts folder.
 - the build folder contain the ready to use .dll and a autoload .lsp file for autocad
 - place the .dll and the .lsp file to a thrusted location (autocad options).
 - use the APPLOAD command and add the autoload.lsp into the content aera.
+- type KEX to start the pallete.
+
+- if you place the files on a different location than c:\vbnet remember to change the path in the .lsp file and in the KEX pallete options tab (export location).
